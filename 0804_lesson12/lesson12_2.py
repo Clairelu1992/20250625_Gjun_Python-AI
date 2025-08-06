@@ -1,4 +1,8 @@
 
+#有一個names.txt
+#讀取names.txt
+#請隨機取出3個名字
+import random
 
 
 random.seed(111)
