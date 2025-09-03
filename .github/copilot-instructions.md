@@ -15,7 +15,8 @@
 開發者工作流程（可直接採用的命令）
 ```bash
 conda activate 20250804_Claire_conda
-python 0903_lesson21/lesson21_2.py
+jupyter nbconvert --to script 0903_lesson21/0903_lesson21_1.ipynb
+python 0903_lesson21/0903_lesson21_1.py
 ```
 
 
